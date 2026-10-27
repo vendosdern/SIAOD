@@ -1,19 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""ЛР 1. Анализ временной сложности элементарных алгоритмов.
+"""ЛР 1. Анализ временной сложности элементарных алгоритмов — стартовая заготовка.
 
-Исходная заготовка преподавателя: реализованы четыре алгоритма и дополнены
-репрезентативные тесты. Каркас загрузки данных, бенчмаркинга и графиков
-сохранён из исходного файла.
+Заготовка — это каркас, а не решение: заполните все TODO самостоятельно
+в соответствии с КИМ-01 и правилами использования генеративного ИИ
+(docs/ai-verification.md). Каркас загрузки данных, замеров и построения
+графиков уже готов — учебная задача в алгоритмах и в объяснении результатов.
 
-Данные варианта генерируются из корня репозитория преподавателя:
-    python scripts/generate_data.py --variant 12 --only arrays
+Работа выполняется на данных СВОЕГО варианта. Перед первым запуском их нужно
+сгенерировать (из корня репозитория курса):
 
-Запуск из корня личного репозитория, в котором есть data/generated:
-    python M1-intro-and-basic-structures/attachments/lab01-complexity-starter.py \
-        --variant 12 --out results
+    python scripts/generate_data.py --variant N --only arrays
 
-При другом расположении данных добавьте: --data /путь/к/data/generated
+Запуск (N — ваш номер варианта):
+
+    python lab01-complexity-starter.py --variant N
+
+Если заготовка скопирована в личный репозиторий и каталог с данными не находится
+автоматически, укажите его явно:
+    python lab01-complexity-starter.py --variant N --data ~/data-structures-and-algorithms/data/generated
+    python M1-intro-and-basic-structures/attachments/lab01-complexity-starter.py --variant 12 --data data/generated
 """
 from __future__ import annotations
 
