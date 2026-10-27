@@ -21,4 +21,4 @@ zsh ./run_mac.command
 
 После появления `=== Готово ===` загрузи `M1-intro-and-basic-structures/attachments/lab02-recursion-structures-starter.py`, `scripts/generate_data.py`, `results/lab02_report.md`, оба PNG и `results/run_log.txt` в GitHub. Не загружай `.venv`, `data/generated`, `__pycache__`.
 
-**Важно:** до успешного запуска отчёт — черновик, а не подтверждённые замеры. Источник решения — [репозиторий К. Долговой](https://github.com/KatyaDolgova/SiAOD_labs/tree/main/lab02), использованный с разрешения автора.
+
