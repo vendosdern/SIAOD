@@ -131,5 +131,4 @@ self_check: OK
 ## Источники
 
 - [Задание КИМ-02 преподавателя](https://github.com/mel0d1an/data-structures-and-algorithms/blob/main/M1-intro-and-basic-structures/kim-02-recursion-linear-structures.md)
-- [Реализация К. Долговой (с разрешения)](https://github.com/KatyaDolgova/SiAOD_labs/tree/main/lab02)
 - [Официальный генератор преподавателя](https://github.com/mel0d1an/data-structures-and-algorithms/blob/main/scripts/generate_data.py)
