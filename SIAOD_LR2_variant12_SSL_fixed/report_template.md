@@ -5,7 +5,6 @@
 **Группа:** БВТ2502  
 **Вариант:** 12; **seed:** 42  
 **Среда выполнения:** {{ENV}}  
-**Основа реализации:** [решение К. Долговой](https://github.com/KatyaDolgova/SiAOD_labs/blob/main/lab02/lab02-recursion-structures-starter.py), использовано с разрешения автора.  
 **Происхождение замеров:** выполнены при запуске приложенного исходного кода с данными варианта 12 на указанном компьютере.
 
 ## Цель
@@ -83,5 +82,4 @@
 ## Источники
 
 - [Задание КИМ-02 преподавателя](https://github.com/mel0d1an/data-structures-and-algorithms/blob/main/M1-intro-and-basic-structures/kim-02-recursion-linear-structures.md)
-- [Реализация К. Долговой (с разрешения)](https://github.com/KatyaDolgova/SiAOD_labs/tree/main/lab02)
 - [Официальный генератор преподавателя](https://github.com/mel0d1an/data-structures-and-algorithms/blob/main/scripts/generate_data.py)
